@@ -1,0 +1,2 @@
+# blackjak
+Javascript blackjak game
